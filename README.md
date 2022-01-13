@@ -2,8 +2,7 @@ Here we are measuring the performance of the athletes at the Tokyo 2020 Olympics
 Decision Tree and KNN with the help of RapidMiner. The performance is measured based on medals.
 
 Data Set Description :
-1. The dataset was obtained from Kaggle community ( https://www.kaggle.com/aliaamiri/2020-
-summer-olympics-dataset ) which consists of data related to the game performance from Tokyo
+1. The dataset was obtained from Kaggle community ( https://www.kaggle.com/aliaamiri/2020-summer-olympics-dataset ) which consists of data related to the game performance from Tokyo
 Olympics held in 2020. There are in total 15121 rows and 12 columns. Each sample (row) has
 the following characteristics (columns):
 • Code
